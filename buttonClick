@@ -1,0 +1,4 @@
+
+<buttontype="button">Test double click</button>
+<p *ngIf="count">Double click event {{ count }}</p>
+
